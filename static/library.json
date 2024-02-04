@@ -1,0 +1,21 @@
+[
+    {
+      "title":"Super Mario Bros (NES)",
+      "url":"https://github.com/FRomero999/ProyectoWeb/blob/master/ringtones-super-mario-bros.mp3?raw=true"
+    },
+    {
+      "title":"Sonic, Green Hill",
+      "url":"https://github.com/FRomero999/ProyectoWeb/blob/master/sonic-sth.mp3?raw=true"
+    },
+    {
+      "title":"Neon Genesis Evangelion",
+      "url":"https://ia800907.us.archive.org/30/items/tvtunes_7772/Neon%20Genesis%20Evangelion.mp3"
+    },{
+        "title":"Zelda (NES)",
+        "url":"https://archive.org/download/the-legend-of-zelda-nes-soundtrack/Legend%20of%20Zelda/1%20-%20Track%201.mp3"
+    },{
+        "title":"Out Run, Passing Breeze",
+        "url":"https://archive.org/download/out-run-chiptune/Out%20Run%2C%20Passing%20Breeze.mp3"
+    }
+
+  ] 
